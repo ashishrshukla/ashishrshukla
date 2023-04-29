@@ -1,6 +1,6 @@
  ### Hi, I'm Ashish Shukla !
 
-An insightful engineer with 3 years and 10 months of experience as a Database Administrator and Technical writer in the content management domain, currently looking for an opportunity in data science. Passionate about solving various business problems with a firm understanding and sound command over statistics, different machine learning algorithms, and predictive models.
+An insightful engineer with 4 years and 6 months of experience as a Database Administrator and Technical writer in the content management domain, currently looking for an opportunity in data science. Passionate about solving various business problems with a firm understanding and sound command over statistics, different machine learning algorithms, and predictive models.
 #### Skills
 1. Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Statsmodels.
 2. Machine Learning: Supervised Learning, Unsupervised Learning.
